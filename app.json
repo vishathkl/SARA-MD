@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
+  "name": "SARA-MD",
+  "description": "Javascript WhatsApp bot made by vishath kaushika lakshan",
   "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "keywords": ["SARA-MD"],
   "success_url": "/",
 
   "env": {

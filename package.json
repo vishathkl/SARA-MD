@@ -1,12 +1,12 @@
 {
-  "name": "DANUWA-MD",
+  "name": "SARA-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-    "stop": "pm2 stop DANUWA-MD",
-    "restart": "pm2 restart DANUWA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SARA-MD",
+    "stop": "pm2 stop SARA-MD",
+    "restart": "pm2 restart SARA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",

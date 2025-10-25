@@ -1,7 +1,7 @@
 {
   "name": "SARA-MD",
   "description": "Javascript WhatsApp bot made by vishath kaushika lakshan",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
+  "logo": "https://github.com/vishathkl/SARA-MD/blob/main/Image/1761314494548.jpg?raw=true",
   "keywords": ["SARA-MD"],
   "success_url": "/",
 
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://github.com/vishathkl/SARA-MD/blob/main/Image/1761314494548.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "SARA-MD ALIVE ON THIS TIME💮🌹_THIS BOT OWNED BY VISHATH KAUSHIKA LAKSHAN 💚💙💛❤️🧡",
       "required": true
     }   
 },

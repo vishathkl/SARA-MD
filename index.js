@@ -87,9 +87,9 @@ async function connectToWA() {
     } else if (connection === 'open') {
       console.log('✅ SARA-MD connected to WhatsApp');
 
-      const up = `DANUWA-MD connected ✅\n\nPREFIX: ${prefix}`;
+      const up = SARA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/vishathkl/SARA-MD/blob/main/Image/1761314494548.jpg?raw=true` },
         caption: up
       });
 
